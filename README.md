@@ -23,3 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/WU8Xnzh63F.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+The link to gif is here:http://g.recordit.co/WU8Xnzh63F.gif 
+It would not show on github readme for some reason
